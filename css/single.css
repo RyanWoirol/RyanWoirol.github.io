@@ -5,7 +5,7 @@ main {
     height: 100%;
     margin: 0px;
     padding: 0px;
-    background-color: black;
+    background-color: red;
 }
 
 .flash {
@@ -26,5 +26,5 @@ main {
     background: black no-repeat;
     background-size: cover;
     border-radius: 100%;
-    box-shadow: inset 0px 0px 10px green, inset 0px 0px 10px green;
+    box-shadow: inset 0px 0px 10px black, inset 0px 0px 10px black;
 }
