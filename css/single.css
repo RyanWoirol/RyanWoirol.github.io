@@ -25,6 +25,6 @@ main {
     height: 100%;
     background: black no-repeat;
     background-size: cover;
-    border-radius: 100%;
+    border-radius: 0%;
     box-shadow: inset 0px 0px 10px black, inset 0px 0px 10px black;
 }
