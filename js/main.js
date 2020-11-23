@@ -39,7 +39,7 @@ function flashWhiteScreen() {
 }
 
 window.addEventListener("keydown", function (event) {
-    if (event.keyCode == 32) {
+    if (event.keyCode == 78) {
         flashWhiteScreen()
         webcams.shift()
         initiateData(webcamData)
